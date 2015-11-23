@@ -1,0 +1,2 @@
+Servlet是一个运行在Web服务器中的Java小程序。
+接收和响应来自Web客户端的HTTP请求。
