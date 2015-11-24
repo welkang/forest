@@ -10,6 +10,14 @@
     <servlet>
         <servlet-name>helloServlet</servlet-name>
         <servlet-class>com.wrox.HelloServlet</servlet-class>
+        <init-param>
+            <param-name>database</param-name>
+            <param-value>Mongodb</param-value>
+        </init-param>
+        <init-param>
+            <param-name>server</param-name>
+            <param-value>10.2.2.2</param-value>
+        </init-param>
     </servlet>
 
     <servlet-mapping>
