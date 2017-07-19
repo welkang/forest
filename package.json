@@ -1,0 +1,24 @@
+{
+  "name": "forest",
+  "version": "1.0.0",
+  "description": "Forest 轻量化的移动端H5组件实现",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/welkang/forest.git"
+  },
+  "keywords": [
+    "Forest",
+    "Preact",
+    "Component"
+  ],
+  "author": "welkang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/welkang/forest/issues"
+  },
+  "homepage": "https://github.com/welkang/forest#readme"
+}
